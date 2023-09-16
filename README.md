@@ -1,1 +1,1 @@
-# simple-automated-test-script-using-Python
+Simple-automated-test-script-using-Python
